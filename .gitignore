@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.py[cod]
+*.log
+.env
+artifacts/
+runs/
+results/
+memory_db/
+*.db
+*.sqlite
+*.sqlite3

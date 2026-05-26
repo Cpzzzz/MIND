@@ -1,0 +1,7 @@
+fastapi
+numpy
+openai
+pydantic
+python-dotenv
+requests
+uvicorn
